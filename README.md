@@ -21,7 +21,7 @@ _ The use of Private IPs to maximize IP usage
 
 _ NAT to convert Private IPs to Public IPs for normal Internet Access
 
-_ Accurate IP assignment for all devices so that all devices can connect to the Internet
+_ Accurate IP assignment for all devices so that they can connect to the Internet
 
 _ The use of Multiuser to allow the floors to communicate among each other
 
