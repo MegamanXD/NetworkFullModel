@@ -15,7 +15,7 @@ _ Allocating all end devices to their respective VLAN
 
 _ Trunking
 
-_ ACLs
+_ ACL to make sure only Design team & Software Developer team can communicate with each other, and only Sales department & Accounting department can communicate with each other
 
 _ The use of Private IPs to maximize IP usage
 
