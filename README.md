@@ -1,2 +1,9 @@
 # NetworkFullModel
-Design a network for a new start-up using Cisco Packet Tracer (from Data communication & Net-Centric Computing course)
+This is the full (Logical & Physical) design for the network (created with Cisco Packet Tracer).
+
+Features involved:
+
+_ 
+
+________________________________________________________________________________________________________________________________________
+This assignment is from Data communication & Net-Centric Computing course.
