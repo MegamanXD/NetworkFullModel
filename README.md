@@ -11,7 +11,7 @@ _ The use of appropriate cables to ensure maximum speed
 
 _ A change from the default native VLAN to a different one for better security
 
-_ Allocating all end devices to its VLAN
+_ Allocating all end devices to their respective VLAN
 
 _ Trunking
 
