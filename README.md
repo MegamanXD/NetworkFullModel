@@ -2,7 +2,7 @@
 This is the full (Logical & Physical) design for the start-up's network. <br>
 Created with Cisco Packet Tracer.
 
-## Features involved:
+## Features
 
 _ The physical assignment of rooms such that each department can safely expand up to 35%
 
@@ -34,6 +34,6 @@ _ Create a web page with URL http://COSC2174.webpage.com & make sure all end dev
 
 _ Design and implement IOE appplication for Intruder alert, Fire alert, and Energy conservation
 ________________________________________________________________________________________________________________________________________
-## This assignment is from:
+## Assignment from
 
 Data communication & Net-Centric Computing course.
