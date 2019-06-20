@@ -4,7 +4,6 @@ This is the full (Logical & Physical) design for the start-up's network (created
 Features involved:
 
 _ The physical assignment of rooms such that each department can safely expand up to 35%
-
 _ The physical position of all devices, and the way wiring is structured
 
 _ The use of appropriate cables to ensure maximum speed
