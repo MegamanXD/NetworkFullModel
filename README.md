@@ -1,4 +1,3 @@
-# NetworkFullModel
 This is the full (Logical & Physical) design for the start-up's network. <br>
 Created with Cisco Packet Tracer.
 
