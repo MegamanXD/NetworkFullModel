@@ -1,5 +1,5 @@
 # NetworkFullModel
-This is the full (Logical & Physical) design for the network (created with Cisco Packet Tracer).
+This is the full (Logical & Physical) design for the start-up's network (created with Cisco Packet Tracer).
 
 Features involved:
 
